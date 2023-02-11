@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+.container{
+    position: relative;
+     text-align:  center;
+  }
+  .som{
+    margin: 0 auto;
+    width: 100%;
+    height: 120%;
+    display: inline-block;
+    background: url();
+    background-position: center center;
+    background-repeat:  no-repeat;
+  }
+  .com{
+
+    height: 25vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .divhr1{
+    margin: 0;
+    text-align: center;
+  }
+  
